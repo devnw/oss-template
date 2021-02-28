@@ -1,3 +1,3 @@
-module github.com/devnw/template
+module devnw.com/template
 
-go 1.14
+go 1.16
