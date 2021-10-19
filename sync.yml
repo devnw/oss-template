@@ -1,0 +1,5 @@
+devnw/shared:
+  - source: workflows/
+    dest: .github/workflows/
+    exclude: |
+      sync.yml
