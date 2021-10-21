@@ -9,3 +9,5 @@ devnw/shared:
     dest: workflows/go/golangci-lint.yml
   - source: .github/workflows/release.yml
     dest: workflows/release/release.yml
+  - source: .github/workflows/automerge.yml
+    dest: workflows/other/automerge.yml
